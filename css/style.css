@@ -742,7 +742,10 @@ body{
         width: 100%;
     }
     .footer .social-icon i{
-        font-size: 15px;
+        font-size: 10px;
+    }
+    .footer .navbar-footer li a{
+        font-size: 13px;
     }
 }
 /* end responsive */
